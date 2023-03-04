@@ -1,5 +1,5 @@
 ## 尚硅谷·宋红康 设置版
-1	执行 (run)	alt+r
+1	执行 (run)	alt+r 
 2	提示补全 (Class Name Completion)	alt+/
 3	单行注释	ctrl + /
 4	多行注释	ctrl + shift + /
