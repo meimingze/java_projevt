@@ -1,4 +1,4 @@
-package java_duoxiancheng.src.多线程1;
+package java_多线程.src.多线程1;
 
 /**
  * 多线程的创建，方式一：继承于Thread类
